@@ -12,9 +12,19 @@ col_1:
     Proin pharetra, diam eget imperdiet sagittis, mi enim finibus urna, non viverra
     urna velit eu odio. Aliquam erat volutpat.
 col_2:
-  headline: ''
-  slug: ''
-  content: ''
+  headline: Head 2
+  slug: The second heading
+  content: Suspendisse enim metus, elementum ac lacus vitae, fringilla lobortis quam.
+    Proin et nisl pretium, dignissim purus id, aliquam lectus. Praesent elementum
+    tincidunt magna. Mauris consequat vulputate felis, at mollis mi porttitor eget.
+    Phasellus dolor ex, fermentum non purus eget, luctus finibus tellus. Vestibulum
+    a nibh consequat, rutrum metus sed, fermentum tellus. Ut vehicula mi purus. Aliquam
+    erat volutpat. Morbi nec nibh in nisl venenatis fermentum. Vestibulum ante ipsum
+    primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus tincidunt,
+    nulla et sollicitudin auctor, nulla ex tincidunt sem, eu consequat dolor mauris
+    id lacus. Quisque et malesuada tellus, non accumsan diam. Nulla sed tellus vel
+    augue posuere maximus id ac enim. Suspendisse pellentesque elementum quam, et
+    rhoncus arcu pharetra vel. Phasellus id rhoncus lectus.
 col_3:
   headline: ''
   slug: ''
