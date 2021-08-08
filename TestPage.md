@@ -26,8 +26,14 @@ col_2:
     augue posuere maximus id ac enim. Suspendisse pellentesque elementum quam, et
     rhoncus arcu pharetra vel. Phasellus id rhoncus lectus.
 col_3:
-  headline: ''
-  slug: ''
-  content: ''
+  headline: Heading Number 3
+  slug: The final heading is here.
+  content: Fusce egestas dui et sapien tempus mattis. Nam porttitor, nisi vel mollis
+    ultrices, libero velit laoreet lacus, id maximus lectus quam vestibulum lacus.
+    Etiam eu enim vitae turpis interdum porta nec sed lectus. Proin aliquet viverra
+    leo, vel accumsan ligula vulputate eleifend. Donec congue in libero in aliquet.
+    Fusce nisi ex, ultrices id est egestas, ornare semper lacus. Cras dapibus sodales
+    felis, eleifend molestie massa maximus sed. Nam ut bibendum enim. Aliquam sed
+    molestie felis, vel tempor velit. Quisque congue mi eget interdum egestas.
 
 ---
