@@ -35,6 +35,10 @@ col_3:
     Fusce nisi ex, ultrices id est egestas, ornare semper lacus. Cras dapibus sodales
     felis, eleifend molestie massa maximus sed. Nam ut bibendum enim. Aliquam sed
     molestie felis, vel tempor velit. Quisque congue mi eget interdum egestas.
+menu:
+  main:
+    weight: 2
+    title: Test
 
 ---
 What should I type here?
